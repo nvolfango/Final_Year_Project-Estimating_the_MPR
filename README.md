@@ -1,5 +1,5 @@
 # Final_Year_Project-Estimating_the_MPR
-This repository contains all the relevant code used in my final year project.
+This repository contains all the relevant code used for my final year project.
 
 TITLE: "Estimating the Mean Percentage Return (MPR) of Structured Financial Products"
 
