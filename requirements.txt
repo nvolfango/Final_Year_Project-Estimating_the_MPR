@@ -1,0 +1,5 @@
+numpy
+math
+numpy.matlib
+scipy.linalg
+scipy.stats
